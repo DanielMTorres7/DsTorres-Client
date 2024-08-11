@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "110994836395",
+    "firebase_url": "https://dstorres-29bbe-default-rtdb.firebaseio.com",
+    "project_id": "dstorres-29bbe",
+    "storage_bucket": "dstorres-29bbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110994836395:android:21401d83c9b033914360ee",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110994836395-u6h0b80h6sv36g0t6c26q7b68n2g9rir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ1Z484lbCvx7sbIvUhFpT3En8ISUHSw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110994836395-u6h0b80h6sv36g0t6c26q7b68n2g9rir.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "110994836395-72rsjcpahgiciu76ff0a6cllh6u4s72o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.plataformadstorres"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
